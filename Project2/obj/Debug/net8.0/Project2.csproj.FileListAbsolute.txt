@@ -37,3 +37,4 @@ c:\Users\Mai Thi Hong Ngoc\Documents\C#\Project2\obj\Debug\net8.0\refint\Project
 c:\Users\Mai Thi Hong Ngoc\Documents\C#\Project2\obj\Debug\net8.0\Project2.pdb
 c:\Users\Mai Thi Hong Ngoc\Documents\C#\Project2\obj\Debug\net8.0\Project2.genruntimeconfig.cache
 c:\Users\Mai Thi Hong Ngoc\Documents\C#\Project2\obj\Debug\net8.0\ref\Project2.dll
+C:\Users\Mai Thi Hong Ngoc\Documents\C#\Project2\obj\Debug\net8.0\Project2.sourcelink.json

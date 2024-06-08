@@ -12,3 +12,4 @@ C:\Users\Mai Thi Hong Ngoc\Documents\C#\Project1\obj\Debug\net8.0\refint\Project
 C:\Users\Mai Thi Hong Ngoc\Documents\C#\Project1\obj\Debug\net8.0\Project1.pdb
 C:\Users\Mai Thi Hong Ngoc\Documents\C#\Project1\obj\Debug\net8.0\Project1.genruntimeconfig.cache
 C:\Users\Mai Thi Hong Ngoc\Documents\C#\Project1\obj\Debug\net8.0\ref\Project1.dll
+C:\Users\Mai Thi Hong Ngoc\Documents\C#\Project1\obj\Debug\net8.0\Project1.sourcelink.json
